@@ -5,3 +5,5 @@ nn125.com
 pnuhondppw.com
 ulog-sdk.ksapisrv.com
 api.aobocn.com
+s3.regru.cloud
+apis-data10.tcgsf41d4.xyz'
