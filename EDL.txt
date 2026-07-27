@@ -62,3 +62,4 @@ img2.drakor.cc
 drakorcute.icu
 bnidirect.id
 ome.tv
+polyfill.io
