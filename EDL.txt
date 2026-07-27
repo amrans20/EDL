@@ -63,4 +63,3 @@ drakorcute.icu
 bnidirect.id
 ome.tv
 polyfill.io
-krl-jabotabek.co.id
