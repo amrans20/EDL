@@ -66,3 +66,4 @@ polyfill.io
 pandora-188news.xyz
 miolilin.com
 mamikale.me
+ometv.chat
